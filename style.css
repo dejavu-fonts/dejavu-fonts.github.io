@@ -1,0 +1,12 @@
+body {
+  font-family: 'DejaVu Sans', sans-serif;
+}
+
+hr {
+  height: 2px;
+  color: #ffbb00;
+  background-color: #ffbb00;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  border-width: 0px;
+}
